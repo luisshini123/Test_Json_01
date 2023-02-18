@@ -1,0 +1,22 @@
+{
+  "UserInfo":[
+    {
+      "UserId": "0",
+      "Name": "Luis",
+      "Phone": "999888777",
+      "Email": "luis@gmail.com"
+    },
+    {
+      "UserId": "1",
+      "Name": "Carlos",
+      "Phone": "987654321",
+      "Email": "carlos@gmail.com"
+    },
+    {
+      "UserId": "2",
+      "Name": "Xavier",
+      "Phone": "910920930",
+      "Email": "xavier@gmail.com"
+    }
+  ]
+}
